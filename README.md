@@ -1,5 +1,7 @@
 # project-x
 
+just a side project
+
 ## Project setup
 ```
 npm install
