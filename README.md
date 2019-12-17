@@ -1,6 +1,6 @@
 # project-x
 
-just a side project
+Just a side project built with HTML, CSS and Vue.js
 
 ## Project setup
 ```
