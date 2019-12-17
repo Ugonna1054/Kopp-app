@@ -1,5 +1,7 @@
 # project-x
 
+Just a side project built with HTML, CSS and Vue.js
+
 ## Project setup
 ```
 npm install
