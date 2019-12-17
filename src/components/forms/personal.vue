@@ -146,6 +146,13 @@ input {
     .custom-radio  {
         width: 10vw;
     }
+    .form-content {
+        margin-top:5vh;
+        padding:0 10px;
+        
+    }
 }
+
+   
 </style>
 
