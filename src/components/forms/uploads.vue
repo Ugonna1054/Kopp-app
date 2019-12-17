@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 </div>
-                <div class="mt-5 container d-flex justify-content-between">
+                <div class="mt-5 container d-flex justify-content-between mb-5">
                     <div @click="next_page" class="btn btn-outline-danger px-4">Skip</div>
                     <div></div>
                     <div></div>

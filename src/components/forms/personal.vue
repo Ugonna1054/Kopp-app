@@ -3,7 +3,7 @@
        <div class="form-content container">
              <p class="font-weight-bold p1"> Confirm your BVN Details</p>
              <p class="p2">Welcome to Globus Bank. We are so glad you are ready to join us.</p>
-             <form @submit.prevent="next_page">
+             <form @submit.prevent="next_page" class="form">
                     <div class="form-row row1">
                         <div class="col-12">
                         <label for="bvn">Bank Verification Number</label>
@@ -137,5 +137,15 @@ input {
 .row3a {
   padding: 10px 70px 20px 20px
 }
-</style>>
+
+@media (max-width:768px) {
+    .form-control, .input-group {
+        width:60vw
+    }
+
+    .custom-radio  {
+        width: 10vw;
+    }
+}
+</style>
 

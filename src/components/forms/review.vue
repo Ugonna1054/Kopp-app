@@ -1,9 +1,9 @@
 <template>
   <div class="main-content container">
       <section class="section1 mb-5">
-          <p class="d-none review font-weight-bold h4 mb-4">Review your Information</p>
+          <p class="d-none review-text font-weight-bold h4 mb-4">Review your Information</p>
           <p class="font-weight-bold">Personal Information</p>
-         <div class="container border py-3">
+         <div class="form-review container border py-3">
              <div class="row d-flex justify-content-around mb-3">
                  <span></span>
                  <span></span>
@@ -33,20 +33,20 @@
             <div class="row text mb-3">
                 <span class="col-4 col-md-3">Date of Birth</span>
                 <span class="col-1 col-md-2"></span>
-                <span class="col-7 col-md-5">14th March, 1989</span>
+                <span class="col-5 col-md-6">14th March, 1989</span>
                 <span class="col-0 col-md-2"></span>
             </div>
             <div class="row text mb-3">
                 <span class="col-4 col-md-3">Phone Number</span>
                 <span class="col-1 col-md-2"></span>
-                <span class="col-7 col-md-5">+2349585938485</span>
+                <span class="col-6 col-md-5">+2349585938485</span>
                 <span class="col-0 col-md-2"></span>
             </div>
             <div class="row text mb-3">
                 <span class="col-4 col-md-3">Email Address</span>
                 <span class="col-1 col-md-2"></span>
-                <span class="col-7 col-md-5">chikason@gmail.com</span>
-                <span class="col-0 col-md-2"></span>
+                <span class="col-6 col-md-5">chikason@gmail.com</span>
+                <span class="col-2 col-md-2"></span>
             </div>
            <div class="row text mb-3">
                 <span class="col-4">Residential Address</span>
@@ -59,7 +59,7 @@
 
       <section class="section2">
         <p class="font-weight-bold">Document Upload</p>
-        <div class="container border py-3">
+        <div class="container border form-review py-3">
             <div class="row d-flex justify-content-around mb-3">
                 <span></span>
                 <span></span>
@@ -68,7 +68,7 @@
                 <span></span>
                 <span> <button  class="btn edit"> <i class="fas fa-sm fa-pencil-alt"></i> Edit</button></span>
             </div>
-            <div class="upload row">
+            <div class="row ">
                 <div class="col-lg-5 mb-3 mb-lg-0" style="padding:0px">
                     <div class="form-row row1 ml-0">
                         <div class="custom-control custom-radio ml-1"> 
@@ -240,8 +240,12 @@ export default {
 }
 
 @media (max-width:768px) {
-    .review {
+    .review-text {
         display: block !important;
+    }
+    .form-review {
+        width:85vw;
+        margin-left: -4vw;
     }
 }
 
