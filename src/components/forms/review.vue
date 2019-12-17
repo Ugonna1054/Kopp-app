@@ -31,22 +31,22 @@
                 <span class="col-2"></span>
             </div>
             <div class="row text mb-3">
-                <span class="col-3">Date of Birth</span>
-                <span class="col-2"></span>
-                <span class="col-5">14th March, 1989</span>
-                <span class="col-2"></span>
+                <span class="col-4 col-md-3">Date of Birth</span>
+                <span class="col-1 col-md-2"></span>
+                <span class="col-7 col-md-5">14th March, 1989</span>
+                <span class="col-0 col-md-2"></span>
             </div>
             <div class="row text mb-3">
-                <span class="col-3">Phone Number</span>
-                <span class="col-2"></span>
-                <span class="col-5">+2349585938485</span>
-                <span class="col-2"></span>
+                <span class="col-4 col-md-3">Phone Number</span>
+                <span class="col-1 col-md-2"></span>
+                <span class="col-7 col-md-5">+2349585938485</span>
+                <span class="col-0 col-md-2"></span>
             </div>
             <div class="row text mb-3">
-                <span class="col-3">Email Address</span>
-                <span class="col-2"></span>
-                <span class="col-5">chikason@gmail.com</span>
-                <span class="col-2"></span>
+                <span class="col-4 col-md-3">Email Address</span>
+                <span class="col-1 col-md-2"></span>
+                <span class="col-7 col-md-5">chikason@gmail.com</span>
+                <span class="col-0 col-md-2"></span>
             </div>
            <div class="row text mb-3">
                 <span class="col-4">Residential Address</span>
