@@ -139,13 +139,7 @@ input {
 }
 
 @media (max-width:768px) {
-    .form-control, .input-group {
-        width:60vw
-    }
 
-    .custom-radio  {
-        width: 10vw;
-    }
     .form-content {
         margin-top:5vh;
         padding:0 10px;
