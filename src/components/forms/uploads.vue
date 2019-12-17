@@ -190,6 +190,14 @@ export default {
 
 }
 
+@media (max-width: 760px) {
+   .form-content {
+        margin-top:5vh;
+        padding:0 50px;
+        width:100vw
+    }
+}
+
 
 
 
