@@ -243,12 +243,9 @@ export default {
     .review-text {
         display: block !important;
     }
-    /* .form-review {
-        width:85vw;
-    } */
     .main-content {
         margin-top:5vh;
-        padding:0 10px;
+        padding:0px 0px 0px 10px;
         
     }
 }

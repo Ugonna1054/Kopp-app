@@ -143,7 +143,10 @@ input {
     .form-content {
         margin-top:5vh;
         padding:0 10px;
-        
+    }
+
+    .row1, .row2, .row3, .row4, .row5 {
+        padding: 20px 20px 20px 20px
     }
 }
 
