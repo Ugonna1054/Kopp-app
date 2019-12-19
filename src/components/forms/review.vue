@@ -1,7 +1,7 @@
 <template>
   <div class="main-content container">
       <section class="section1 mb-5">
-          <p class="d-none review-text font-weight-bold h4 mb-4">Review your Information</p>
+          <p class="d-none review-text text-center font-weight-bold h4 mb-4">Review your Information</p>
           <p class="font-weight-bold">Personal Information</p>
          <div class="form-review container border py-3">
              <div class="row d-flex justify-content-around mb-3">
