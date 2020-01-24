@@ -5,6 +5,5 @@
 </template>
 
 <style>
-@import url('./assets/fontawesome/css/all.css');
-
+@import url("./assets/fontawesome/css/all.css");
 </style>
